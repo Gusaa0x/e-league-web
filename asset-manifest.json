@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Gusaa0x/e-league-web/static/css/main.dcff2e56.css",
+    "main.js": "/Gusaa0x/e-league-web/static/js/main.d6850960.js",
+    "static/js/787.9c8b21fd.chunk.js": "/Gusaa0x/e-league-web/static/js/787.9c8b21fd.chunk.js",
+    "static/media/Logo.png": "/Gusaa0x/e-league-web/static/media/Logo.f1561563f07b6c3bd285.png",
+    "static/media/G2_Esportslogo_square.png": "/Gusaa0x/e-league-web/static/media/G2_Esportslogo_square.cc1fc8b4db9439256bda.png",
+    "static/media/iconoJUNGLA.png": "/Gusaa0x/e-league-web/static/media/iconoJUNGLA.20a8947461ebad20ff6a.png",
+    "index.html": "/Gusaa0x/e-league-web/index.html",
+    "main.dcff2e56.css.map": "/Gusaa0x/e-league-web/static/css/main.dcff2e56.css.map",
+    "main.d6850960.js.map": "/Gusaa0x/e-league-web/static/js/main.d6850960.js.map",
+    "787.9c8b21fd.chunk.js.map": "/Gusaa0x/e-league-web/static/js/787.9c8b21fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcff2e56.css",
+    "static/js/main.d6850960.js"
+  ]
+}
